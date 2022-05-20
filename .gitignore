@@ -1,0 +1,9 @@
+# Project
+# Add project specifix excludes here
+
+# Node
+/node_modules/
+/package-lock.json
+
+# Operating System
+.DS_STORE
